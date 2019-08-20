@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.bd4f92f2.chunk.css",
-    "main.js": "/static/js/main.9dfd9002.chunk.js",
-    "main.js.map": "/static/js/main.9dfd9002.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.4b805124.chunk.js": "/static/js/2.4b805124.chunk.js",
-    "static/js/2.4b805124.chunk.js.map": "/static/js/2.4b805124.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.7fbb5bd2b9455a735470ecc7b8e39880.js": "/precache-manifest.7fbb5bd2b9455a735470ecc7b8e39880.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.bd4f92f2.chunk.css.map": "/static/css/main.bd4f92f2.chunk.css.map"
+    "main.css": "/p2p-platform/static/css/main.bd4f92f2.chunk.css",
+    "main.js": "/p2p-platform/static/js/main.01ba5075.chunk.js",
+    "main.js.map": "/p2p-platform/static/js/main.01ba5075.chunk.js.map",
+    "runtime~main.js": "/p2p-platform/static/js/runtime~main.1a2bbffa.js",
+    "runtime~main.js.map": "/p2p-platform/static/js/runtime~main.1a2bbffa.js.map",
+    "static/js/2.4b805124.chunk.js": "/p2p-platform/static/js/2.4b805124.chunk.js",
+    "static/js/2.4b805124.chunk.js.map": "/p2p-platform/static/js/2.4b805124.chunk.js.map",
+    "index.html": "/p2p-platform/index.html",
+    "precache-manifest.e9faa9d26cad1aeb42a1954d4a288065.js": "/p2p-platform/precache-manifest.e9faa9d26cad1aeb42a1954d4a288065.js",
+    "service-worker.js": "/p2p-platform/service-worker.js",
+    "static/css/main.bd4f92f2.chunk.css.map": "/p2p-platform/static/css/main.bd4f92f2.chunk.css.map"
   }
 }
